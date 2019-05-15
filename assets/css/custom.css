@@ -1,0 +1,50 @@
+#page-inner {
+    width: 100%;
+    margin: 0px 0px 35px 0px;
+    
+    padding: 10px;
+    min-height: 1200px;
+}
+span.count1 {
+    font-size: 35px;
+}
+
+.navigasi{
+	font-size: 15px;
+}
+
+
+
+img.userimage.img-responsive.rounded-circle {
+    padding: 35px;
+}
+element.style {
+    display: inherit;
+}
+.head-menu {
+    padding-top: 5px;
+}
+img.logo {
+     width: 200px; 
+}
+
+.container.text-center {
+    margin-top: 50px;
+}
+.btn-ex {
+    margin-bottom: 15px;
+}
+.btn-cetak {
+    margin: 20px 9.6% 5px;
+}
+a.titles {
+    color: black;
+    text-decoration: none;
+    
+}
+
+a:hover.titles {
+    color: #007bff;
+    text-decoration: none;
+    
+}
